@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+nav{
+	text-align: center;
+	background-color: #edadbc;
+	color: hotpink;
+}
+body{
+	background-color: pink;
+	font-family:fantasy;
+}
+.hello{
+	text-align: center;
+	
+}
+#image{
+	height:90%;
+	margin-left: 35%;
+}
+#wow{
+	text-align: center;
+}
+div2{
+	background-color:hotpink   l ;
+}
